@@ -9,3 +9,8 @@ print('Hsing was here')
 print('Michael was here')
 
 # Alina
+
+
+# Someone else
+
+print('someone else was here')
