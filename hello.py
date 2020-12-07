@@ -6,6 +6,6 @@ print('Jeff was here')
 
 
 # Michael
-
+print('Michael was here')
 
 # Alina
