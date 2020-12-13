@@ -9,7 +9,7 @@ print('Hsing was here')
 print('Michael was here')
 
 # Alina
-
+print('Alina was here')
 
 # Someone else
 
